@@ -36,7 +36,7 @@ module.exports = {
   },
 
   name: 'balance',
-  description: "See yours/someone else's balance",
+  description: "See yours/someone else's balance.",
   options: [{
     name: 'user',
     description: 'The user whose balance you want to get.',
